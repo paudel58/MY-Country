@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+    color: white;
+}
+
+img {
+    max-width: ;
+    100%;
+    width: 100%;
+}
+
+.box-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
